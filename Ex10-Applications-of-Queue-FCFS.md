@@ -12,8 +12,8 @@ To write a C function to calculate the turnaround time of each process given the
 ```
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024
 */
 
 ```
