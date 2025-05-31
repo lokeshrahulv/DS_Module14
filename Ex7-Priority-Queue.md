@@ -15,8 +15,8 @@ To formulate the C code to display the elements of the priority queue after inse
 ```
 /*
 Program to display the elements of the priority queue after insertion and deletion operation
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013 
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024 
 */
 
 ```
